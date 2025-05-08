@@ -1,4 +1,4 @@
 # LIRDRec
-- Learning Item Representations Directly from Multimodal Features for Effective Recommendation
+`Learning Item Representations Directly from Multimodal Features for Effective Recommendation`
 
-Source code
+Source code will be uploaded soon.
