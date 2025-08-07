@@ -1,5 +1,5 @@
 # LIRDRec
-Source code for LIRDRec is located at `src/models/lirdrec.py`.
+Source code for [LIRDRec](https://arxiv.org/abs/2505.04960) is located at `src/models/lirdrec.py`.
 
 ## Dependencies
 The script has been tested running under Python 3.7.11, with the following packages installed (along with their dependencies):
